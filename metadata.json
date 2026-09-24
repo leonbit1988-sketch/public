@@ -1,0 +1,6 @@
+{
+  "name": "Скрипт архивации файлов по дате",
+  "description": "Графическое приложение (GUI) для сканирования сетевых папок на старые файлы (2010–2016) и переноса с сохранением иерархии папок, а также генератор Python Tkinter и PowerShell GUI скриптов",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
